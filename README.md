@@ -12,7 +12,7 @@
 
 *MENTOR* : NEELA SANTOSH
 
-## This project demonstrates the implementation of a Decision Tree Classification model using the Titanic dataset to predict passenger survival. The objective of the project is to apply data preprocessing, feature engineering, model training, evaluation, and pruning techniques to build an accurate and interpretable machine learning model.
+# This project demonstrates the implementation of a Decision Tree Classification model using the Titanic dataset to predict passenger survival. The objective of the project is to apply data preprocessing, feature engineering, model training, evaluation, and pruning techniques to build an accurate and interpretable machine learning model.
 
 ## The project begins by importing essential Python libraries such as Pandas, Seaborn, Matplotlib, and Scikit-learn. The Titanic dataset is loaded using Seaborn and explored through functions like head(), describe(), info(), and isnull().sum(). This exploratory analysis helps in understanding the structure of the dataset, identifying missing values, and selecting appropriate features for model training.
 
