@@ -27,3 +27,8 @@
 ## The project further applies Cost Complexity Pruning to reduce overfitting and create a more generalized model. The cost_complexity_pruning_path() method is used to obtain different values of ccp_alpha, which control the pruning process. Multiple decision trees are trained using different alpha values, and their performance is evaluated on the test set. The alpha value that produces the highest accuracy is selected as the optimal pruning parameter.
 
 ## Finally, a pruned Decision Tree model is trained using the best alpha value. The pruned model is visualized and saved as image files in PNG and JPG formats. The final accuracy of the optimized model is calculated and compared with the original model. Overall, this project demonstrates the complete workflow of building, evaluating, visualizing, and optimizing a Decision Tree Classifier using the Titanic dataset, highlighting the importance of data preprocessing, model evaluation, and pruning techniques in machine learning.
+
+
+## FINAL OUTPUT :
+
+<img width="1039" height="495" alt="Image" src="https://github.com/user-attachments/assets/7d86168a-e637-4709-b217-cac90428c7d5" />
